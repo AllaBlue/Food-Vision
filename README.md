@@ -7,9 +7,10 @@ This project implements a Convolutional Neural Network (CNN) for food image clas
 ```
 .
 ├── custom_test_data/
-├── data/
+├── readme_images/
 ├── .gitignore
 ├── food_vision.ipynb
+├── Food-Vision-Presentation.ipynb
 ├── README.md
 └── requirements.txt
 ```
