@@ -46,7 +46,7 @@ The project includes functionality to make predictions on custom images. Here's 
    ```
 
 ### Usage
-1. Open the `food_vision.ipynb` notebook in a Jupyter environment.
+1. Open the `food_vision_project.ipynb` notebook in a Jupyter environment.
 2. Run the cells to train the models and visualize the results.
 3. Use the custom prediction function to classify new food images.
 
