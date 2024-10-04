@@ -3,18 +3,6 @@
 ## Overview
 This project implements a Convolutional Neural Network (CNN) for food image classification. It specifically focuses on classifying images of pizza, steak, and sushi using PyTorch.
 
-## Project Structure
-```
-.
-├── custom_test_data/
-├── readme_images/
-├── .gitignore
-├── food_vision.ipynb
-├── Food-Vision-Presentation.ipynb
-├── README.md
-└── requirements.txt
-```
-
 ## Features
 - Uses TinyVGG architecture for image classification
 - Implements data augmentation techniques
