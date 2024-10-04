@@ -1,1 +1,25 @@
-/data
+# Ignore all data files
+/data/
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore presentation backup files
+*.pptx~
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore log and temporary files
+*.log
+*.tmp
+*.bak
